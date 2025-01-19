@@ -11,7 +11,7 @@ Este repositório apresenta a solução arquitetural para a startup Nova Tech, q
 ## Arquitetura Proposta
 
 
-![AWS Architecture](https://github.com/user-attachments/assets/23a9bae3-02d1-4364-bf50-b52516c88a68)
+![Arquitetura](https://github.com/user-attachments/assets/09f995b4-6859-4f69-87f9-6249d2f42838)
 
 ### Descrição Geral
 
